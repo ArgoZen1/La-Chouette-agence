@@ -26,7 +26,6 @@ a:hover {
     z-index: 100000;
     background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
 }
-
 .bloc {
     width: 100%;
     clear: both;
@@ -765,11 +764,6 @@ h4 {
 .bgc-white {
     background-color: #FFFFFF;
 }
-
-.bgc-dark-slate-blue {
-    background-color: #364577;
-}
-
 .bgc-atomic-tangerine {
     background-color: #F3976C;
 }
@@ -1039,4 +1033,23 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+/* modification perf */
+.text-center h2 {
+    font-size: 2rem;
+}
+blockquote {
+    border: none;
+    color: #333232;
+}
+cite {
+    font-size: 1.3rem;
+}
+.ltc-white {
+    line-height: 5rem;
+}
+.col-sm-12 h3 {
+    font-size: 1.7rem;
+    line-height: 3rem;
+    color: rgb(94, 92, 92)!important;   
 }
