@@ -1065,8 +1065,13 @@ article img {
     line-height: 4rem;
 }
 .textColorSpace {
-    color: white!important;
+    color: rgb(39, 34, 38)!important;
     font-size: 1.7rem;
+    font-weight: bold;
+}
+.modifA {
+    color: black!important;
+    font-weight: bold;
 }
 
 
