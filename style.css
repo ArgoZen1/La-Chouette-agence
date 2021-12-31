@@ -1055,15 +1055,17 @@ article img {
     text-align: center;
     font-weight: bold;  
 }
-.bgc-atomic-tangerine {
-    display: flex;
-    justify-content: center;
-}
 .textAcces  {
-    font-size: 3rem;      
+    font-size: 3rem;
+    filter: brightness(1.5);
 }
 .col-sm-4 ul a {
     color: black!important;
+    font-size: 1.7rem;
+    line-height: 4rem;
+}
+.textColorSpace {
+    color: white!important;
     font-size: 1.7rem;
 }
 
