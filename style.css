@@ -1048,6 +1048,7 @@ footer .white {
 }
 article img {
     width: 100%;
+    height: auto;
     object-fit: cover;
 }
 .textColor p, h1 {
@@ -1072,6 +1073,18 @@ article img {
 .modifA {
     color: black!important;
     font-weight: bold;
+}
+img.img-responsive.portfolio-thumb {
+    width: 100%;
+    height: auto;
+}
+img.center-block.image-resize-mode {
+    width: 30%;
+    height: auto;
+}
+.navbar-brand img {
+    width: 75%;
+    height: auto;
 }
 
 
