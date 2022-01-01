@@ -6,10 +6,6 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-img {
-    width: 100%;
-    height: auto;
-}
 a,
 button {
     transition: all .3s ease-in-out;
@@ -1051,7 +1047,7 @@ footer .white {
 }
 article img {
     width: 100%;
-    height:
+    height:auto;
     object-fit: cover;
 }
 .textColor p, h1 {
@@ -1077,18 +1073,7 @@ article img {
     color: black!important;
     font-weight: bold;
 }
-img.img-responsive.portfolio-thumb {
-    width: 100%;
-    height: auto;
-}
-img.center-block.image-resize-mode {
-    width: 30%;
-    height: auto;
-}
-.navbar-brand img {
-    width: 75%;
-    height: auto;
-}
+
 
 
 
