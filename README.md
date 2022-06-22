@@ -8,6 +8,9 @@
 6. Réalisation d'un rapport d’optimisation
 7. Réalisation d'un rapport d’analyse SEO
 
-### avant :
+#Performance optimisée :
 
 ![avant-apres-mobile](https://user-images.githubusercontent.com/95536872/175106239-c58eef1c-afef-439a-a022-fb42673867be.png)
+
+
+![avant-apres-mobile](https://user-images.githubusercontent.com/95536872/175106648-4dc16878-59c9-4f49-84ea-b0febe45157a.png)
